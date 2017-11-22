@@ -1,1 +1,14 @@
-# google2
+1. <http://www.google.com/search?q=varias+palabras+en+1>
+2. <http://www.google.com/search?q=centro+de+enseñanza+gregorio+fernández>
+3. <http://www.google.com/search?q=gregorio+fernández+-centro+-enseñanza>
+4. <http://www.google.com/search?q=gregorio+fernández+-centro+-enseñanza&num=3>
+5. <http://www.google.com/search?q=league+of+legends&as_filetype=jpg>
+6. <https://www.google.es/search?q=bots&as_sitesearch=euw.leagueoflegends.com/es/>
+7. <https://www.google.es/search?q=hackers&as_qdr=d>
+8. <https://www.google.es/search?q=league+of+legends&as_filetype=png&as_rights=(cc_publicdomain|cc_attribute|cc_sharealike|cc_nonderived).-(cc_noncommercial)>
+9.1 <https://www.google.es/search?q=bitcoin+robar&define%3Arobar>
+9.2 <https://www.google.es/search?q=bitcoin+robar&bitcoin%20%20*%20robar%20two>
+10. <https://www.google.es/search?q=orate&define%3Aword>
+11. <https://www.google.es/search?q=lider&lr=lang_de>
+12. <https://www.google.es/search?q=lider&cr=countryDE>
+13. <https://www.google.es/search?q=lider&lr=lang_de&cr=countryDE>
