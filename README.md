@@ -7,7 +7,7 @@
 7. <https://www.google.es/search?q=hackers&as_qdr=d>
 8. <https://www.google.es/search?q=league+of+legends&as_filetype=png&as_rights=(cc_publicdomain|cc_attribute|cc_sharealike|cc_nonderived).-(cc_noncommercial)>
 9. <https://www.google.es/search?q=bitcoin+robar&define%3Arobar&~robar>
-9. <https://www.google.es/search?q=bitcoin+robo&bitcoin%20%20*%20robo%20two>
+9. <https://www.google.es/search?q=%2Bbitcoin+%2Brobo>
 10. <https://www.google.es/search?q=orate&define%3Aword>
 11. <https://www.google.es/search?q=lider&lr=lang_de>
 12. <https://www.google.es/search?q=lider&cr=countryDE>
